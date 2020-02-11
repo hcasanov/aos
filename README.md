@@ -7,7 +7,10 @@ Vous pouvez la récupérer en installant create-react-app, puis lancer "create-r
 
 ### Data user
 
-email           '''test@test.fr'''
+email           
+'''
+test@test.fr
+'''
 password        '''mypassword'''
 
 ## Commande à effectuer depuis la racine ./
