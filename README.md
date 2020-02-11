@@ -3,7 +3,7 @@
 email           test@test.fr
 password        mypassword
 
-### Commande à effectuer depuis la racine ./
+## Commande à effectuer depuis la racine ./
 
 ### Création d'un user dans la database
 
